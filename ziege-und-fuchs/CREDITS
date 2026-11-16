@@ -1,0 +1,15 @@
+Die kleine Ziege und der Fuchs — verwendete Fremdmaterialien
+
+Musik-Samples
+- Blockflöte, Glockenspiel, Holzblock, Shaker, Marimba: Versilian Community Sample Library (VCSL), Versilian Studios — CC0 1.0 (gemeinfrei)
+  https://github.com/sgossner/VCSL
+
+Synthetisch (keine Fremdaufnahmen)
+- Spieluhr, Nylongitarre, Kontrabass-Pizzicato: physikalisches Saitenmodell aus Lemo-Opuscar (core/audio/pluck.py), MIT-Lizenz
+- Alle Geräusche (Wachsstift, Rascheln, Hufe, Vögel, Grillen, Wind …): prozedural erzeugt in mix.py
+
+Bild
+- Zeichen-Engine (engine/gl.js, engine/crayon.js, engine/rig.js) und Render-Werkzeuge: Lemo-Opuscar, https://github.com/lemomo-ai/lemo-opuscar, MIT-Lizenz (siehe engine/LICENSE)
+- Stil: „Crayon Picture Book“ aus Lemo-Opuscar. Figuren, Seite, Kamera und Geschichte sind eigens für diesen Film gezeichnet.
+
+Schriften, Stimmen, Fotos, Videomaterial: keine.
