@@ -1,0 +1,15 @@
+Küçük Keçi ve Tilki — Bölüm 2: Eve Giden İzler — kullanılan dış kaynaklar
+
+Müzik örnekleri (samples)
+- Blok flüt, glockenspiel, tahta blok, marimba: Versilian Community Sample Library (VCSL), Versilian Studios — CC0 1.0 (kamu malı)
+  https://github.com/sgossner/VCSL
+
+Sentetik (dış kayıt yok)
+- Müzik kutusu, naylon gitar, kontrbas pizzicato: Lemo-Opuscar fiziksel tel modeli (core/audio/pluck.py), MIT lisansı
+- Tüm sesler (boya kalemi, ıslak fırça, toynak, cırcır böcekleri, rüzgâr, çan …): mix.py içinde üretildi
+
+Görüntü
+- Çizim motoru (engine/gl.js, engine/crayon.js, engine/rig.js) ve render araçları: Lemo-Opuscar, https://github.com/lemomo-ai/lemo-opuscar, MIT lisansı (bkz. engine/LICENSE)
+- Tarz: Lemo-Opuscar "Crayon Picture Book". Karakterler, sayfa, kamera ve hikaye bu film için çizildi (karakterler birinci filmden: ../ziege-und-fuchs/).
+
+Yazı tipi, ses kaydı, fotoğraf, video malzemesi: yok.
